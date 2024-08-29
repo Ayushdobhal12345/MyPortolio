@@ -1,0 +1,40 @@
+*{color:white;
+    padding:0px;
+    background-color: black;
+}
+
+h1{ text-align:center;
+    color:dodgerblue;
+}
+#about p{
+    font-size: larger;
+
+}
+footer{
+    text-align: center;
+    color:whitesmoke;
+}
+
+.border:hover{
+    display:inline;
+    color:rgb(10, 87, 232);
+    border:2px solid white;
+}
+.download{
+    color:rgb(75, 134, 244);
+    border:1px solid grey;
+    background-color:white;
+}
+.about{
+    margin:1px;
+}
+.highlights{
+    border:1px solid grey;
+    background-color: rgb(86, 84, 84);
+}
+.imp{
+    color:cornflowerblue;
+}
+div{
+   display: inline;
+}
